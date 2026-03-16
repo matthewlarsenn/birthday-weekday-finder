@@ -20,8 +20,5 @@ The program will ask the user for their birthdate and the year. The program will
 
 ---
 
-## Citations
-
----
-
 ## Tutorials, Documentation, and Code Referenced
+- [datetime](https://www.youtube.com/watch?v=eirjjyP2qcQ)
