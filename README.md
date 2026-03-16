@@ -15,8 +15,8 @@ The program will ask the user for their birthdate and the year. The program will
 ---
 
 ## Videos
-- [Code Demo]()
-- [Code Walkthrough]()
+- [Code Demo](https://youtu.be/qzXlU0IWXUQ)
+- [Code Walkthrough](https://youtu.be/5-kiur0slCI)
 
 ---
 
